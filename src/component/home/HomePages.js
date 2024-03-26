@@ -23,7 +23,6 @@ const HomePages = () => {
                         <h3 className='mt-0'>1 January, 2001</h3>
                         <p className='mb-0'> PLACE </p>
                         <h4 className='m-0'>Nam Định</h4>
-
                     </div>
                 </div>
             </div>
