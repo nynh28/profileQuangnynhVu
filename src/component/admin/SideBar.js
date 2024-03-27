@@ -13,7 +13,7 @@ import { Sidebar, Menu, MenuItem, SubMenu,} from 'react-pro-sidebar';
 
 
   return (
-    <div style={{ display: 'flex', height: 'calc(100vh - 70px)'}}>
+    <div style={{ display: 'flex', height: 'calc(100vh - 100px)'}}>
       <Sidebar
         collapsed={collapsed}
         toggled={toggled}
@@ -50,7 +50,7 @@ import { Sidebar, Menu, MenuItem, SubMenu,} from 'react-pro-sidebar';
                 </SubMenu>
               </SubMenu>
               <SubMenu label="E-commerce" >
-                <MenuItem> Product</MenuItem>
+                <MenuItem> Ninh</MenuItem>
                 <MenuItem> Orders</MenuItem>
                 <MenuItem> Credit card</MenuItem>
               </SubMenu>

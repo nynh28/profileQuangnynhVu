@@ -10,9 +10,6 @@ function App() {
         <Header />
       </div>
       <div className='main-contenter'>
-        <div className='silde-bar'>
-
-        </div>
         <div className='app-contenter'>
           <Outlet />
         </div>
